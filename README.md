@@ -37,7 +37,7 @@ ratings is shown below:
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160850211-4b6df1cf-ea8a-4e64-829f-da6e08621219.png"
 " width = "300" height = "175"></p> 
 
-The cross-sectional vies of both type of batteries is shown below. Working of the battery is out of the scope this presentation.
+The cross-sectional views of both type of batteries is shown below. Working of the battery is out of the scope this presentation.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160853692-91fc5f2e-a168-4bb7-9b11-0efbe46d79d6.png"
 " width = "370" height = "175"></p> 
 
