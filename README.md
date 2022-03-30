@@ -24,4 +24,4 @@ Certain advantages of Li-ion batteries include:
 * lighter and more compact compared Lead-acid batteries still found in cars
 * rechargeable, unlike disposable zinc and alkaline batteries used in medical-electronic devices and toys
 * unlike Nickel-Cadmium rechargeable batteries that contains toxic Cd, Li-ion batteries doesn't contain toxic metal
-* Li-ion battery doesn't have "memory effect" prevalant in Ni-Cd cells
+* Li-ion battery doesn't have "memory effect", which is prevalant in Ni-Cd cells
