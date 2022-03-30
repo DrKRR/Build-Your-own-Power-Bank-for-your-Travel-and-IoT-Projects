@@ -30,3 +30,6 @@ Certain advantages of Li-ion batteries include:
 Following are the images of Li-ion batteries used in power banks, laptops, mobile phones etc.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160846408-ff763e45-f66e-43a1-a5cc-887449535927.png"
 " width = "370" height = "150"></p> 
+
+In the above, Li-ion batteries shown in (a) and (b) are used in mobile phones while that is used in power banks and laptops is shown
+in (c).
