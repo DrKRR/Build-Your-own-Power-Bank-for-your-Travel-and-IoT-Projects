@@ -10,3 +10,7 @@ On highways, there is every likelyhood that mobile towers are built in such a wa
 
 Readymade power banks are available on the market. But, they are not only costly but also the troubleshooting is a difficult task. In the light of this fact, I present DIY power bank which is cost-effective and also easy to replace when there is a problem with the battery or
 charging electronics. It works well during travel and also can be used for testing embedded and IoT projects.
+Power bank mainly consists of three parts:
+* Lithium-ion or Lithium-polymer battery
+* Battery charging electronic circuit
+* Case to hold both the above
