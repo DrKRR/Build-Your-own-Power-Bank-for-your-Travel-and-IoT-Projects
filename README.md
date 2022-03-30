@@ -26,4 +26,7 @@ Certain advantages of Li-ion batteries include:
 * unlike Nickel-Cadmium rechargeable batteries that contains toxic Cd, Li-ion batteries doesn't contain toxic metal
 * Li-ion battery doesn't have "memory effect", which is prevalant in Ni-Cd cells
 * Li-ion cells are availble in portable sizes and shapes: cylindrical and rectangular 
-Following are the images of Li-ion cells used in power banks, laptops, mobile phones etc.
+  
+Following are the images of Li-ion batteries used in power banks, laptops, mobile phones etc.
+<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160846408-ff763e45-f66e-43a1-a5cc-887449535927.png"
+" width = "370" height = "150"></p> 
