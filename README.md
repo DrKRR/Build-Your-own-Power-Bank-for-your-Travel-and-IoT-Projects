@@ -15,3 +15,5 @@ Power bank mainly consists of three parts:
 * Lithium-ion or Lithium-polymer battery
 * Battery charging electronic circuit
 * Case to hold both the above
+### BATTERY ###
+In this explanation I concentrate on Lithium-ion batteries, due to its popularity. In fact, the Nobel Prize in Chemistry for the year 2019 is being shared by three scientists for their invention: *"Development of Lithium-ion Batteries"*
