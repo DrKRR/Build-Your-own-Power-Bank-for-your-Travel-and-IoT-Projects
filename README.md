@@ -19,3 +19,9 @@ Power bank mainly consists of three parts:
 In this explanation I concentrate on Lithium-ion batteries, due to its popularity. In fact, the Nobel Prize in *Chemistry* for the year 2019 is being shared by three scientists for their invention: *"Development of Lithium-ion Batteries"*
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160837059-ee821707-7dd2-401d-8243-1fef6037b8f7.png"
 " width = "350" height = "150"></p>  
+  
+Certain advantages of Li-ion batteries include:
+* lighter and more compact compared Lead-acid batteries still found in cars
+* rechargeable, unlike disposable zinc and alkaline batteries used in medical-electronic devices and toys
+* unlike Nickel-Cadmium rechargeable batteries that contains toxic Cd, Li-ion batteries doesn't contain toxic metal
+* Li-ion battery doesn't have "memory effect" prevalant in Ni-Cd cells
