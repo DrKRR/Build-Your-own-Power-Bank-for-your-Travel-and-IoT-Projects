@@ -7,4 +7,5 @@ On highways, there is every likelyhood that mobile towers are built in such a wa
   </br>
  <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160730447-cd62b70b-cfdf-4c30-b606-fa889bddef55.png"
   " width = "250" height = "150"></p> 
-
+Readymade power banks are available on the market. But, they are not only costly but also the troubleshooting is a difficult task. In the light of this fact, I present DIY power bank which is cost-effective and also easy to replace when there is a problem with the battery or
+charging electronics.
