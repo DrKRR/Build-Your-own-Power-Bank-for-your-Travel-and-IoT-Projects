@@ -31,7 +31,7 @@ Following are the images of Li-ion batteries used in power banks, laptops, mobil
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160846408-ff763e45-f66e-43a1-a5cc-887449535927.png"
 " width = "370" height = "150"></p> 
 
-In the above, Li-ion batteries shown in (a) and (b) are used in mobile phones, tablets while that is used in power banks and laptops is shown in (c).
+In the above, Li-ion batteries shown in (a) and (b) are used in mobile phones, tablets while that are used in power banks and laptops is shown in (c).
 Li-ion batteries used in power banks and laptop's power supplies, and general power supplies are numbered as 18650 with 3.7V and current ratings is shown below:
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160850211-4b6df1cf-ea8a-4e64-829f-da6e08621219.png"
 " width = "300" height = "175"></p> 
