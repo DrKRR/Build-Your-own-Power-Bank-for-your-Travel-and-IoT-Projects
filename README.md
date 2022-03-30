@@ -17,6 +17,5 @@ Power bank mainly consists of three parts:
 * Case to hold both the above
 ### BATTERY ###
 In this explanation I concentrate on Lithium-ion batteries, due to its popularity. In fact, the Nobel Prize in Chemistry for the year 2019 is being shared by three scientists for their invention: *"Development of Lithium-ion Batteries"*
-<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160831491-62180725-6ea7-43c6-b3f5-21e604a41846.png"
-" width = "250" height = "150"></p> 
-  
+<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160837059-ee821707-7dd2-401d-8243-1fef6037b8f7.png"
+" width = "350" height = "150"></p>  
