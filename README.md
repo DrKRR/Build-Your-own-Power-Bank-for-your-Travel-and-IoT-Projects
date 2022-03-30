@@ -8,4 +8,4 @@ On highways, there is every likelyhood that mobile towers are built in such a wa
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160733418-85e11bb5-1b71-40fe-8db6-38dc22d8fca0.png"
 " width = "250" height = "150"></p>
 Readymade power banks are available on the market. But, they are not only costly but also the troubleshooting is a difficult task. In the light of this fact, I present DIY power bank which is cost-effective and also easy to replace when there is a problem with the battery or
-charging electronics.
+charging electronics. It works well during travel and also can be used for testing embedded and IoT projects.
