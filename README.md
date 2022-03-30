@@ -1,5 +1,5 @@
 # Build-Your-own-Power-Bank-for-your-Travel-and-IoT-Projects
-This Project explains how to build a cost-effective power bank for mobile phones during travel and for powering up the IoT Projects as DIY (Do It Yourself).
+This Project explains how to build a cost-effective power bank for mobile phones during travel and for powering up the IoT Projects as **DIY** (Do It Yourself).
 </br>
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160660232-8ecccfd3-02de-4168-b503-be08534eb20c.png"
 " width = "250" height = "150"></p>  
