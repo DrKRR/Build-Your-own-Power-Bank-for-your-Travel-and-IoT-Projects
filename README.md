@@ -46,7 +46,8 @@ Charging a LI-ion 18650 battery can be accomplished by different methods. Due to
 * HT4928S
 * SW2808S
 * 134N3P
+* MC34063A
 * TP4056
 * HX3589
 * ST6845
- 
+The Hotchip HT4928 and SW2808S are very popular among these chips.
