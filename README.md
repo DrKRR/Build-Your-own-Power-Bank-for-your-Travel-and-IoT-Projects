@@ -41,3 +41,5 @@ The cross-sectional views of both type of batteries are shown below. Working of 
 " width = "370" height = "175"></p> 
 
 ### ELECTRONIC CHARGING CIRCUIT ###
+
+Charging of LI-ion 18650 battery can be accomplished by different methods. Due to the developments in VLSI technology, many charging circuits are coming in the form of ICs. These ICs in conjunction with PCB mountable miniature L,C,R components will be used as battery chargers.
