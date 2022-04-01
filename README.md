@@ -71,7 +71,9 @@ Now, it is time to understand assembling of the individual components. In the ab
 A plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the negative terminal of the PCB and the other end of the wire is wound in a spiral shape that fits in to the plastic battery holder. The spacing between the positive plate and spiral end is such, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in such a way gives an output of 5V at 1A.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
 " width = "500" height = "350"></p> 
-  
+
+The power bank cases are available commercially at the following:
+<p align = "center"> [(https://www.amazon.in/HeSale-Aluminium-Power-18650-Battery/dp/B084X8KV7K)] <p/> 
 The power bank shown above can be charged with mobile chargers with micro USB2.0B termination. I used Motorola and Redmi mobile chargers (shown below) to successfully charge the power banks. Check your charger specifications before use. Use only elegible chargers to charge your power bank, otherwise it may lead to explosion of battery/catching up fire/spoiling of the charger circuit/spoiling of charger itself.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161237509-d551398f-d58d-4888-8ca1-ad7fa3a66f67.png"
 " width = "450" height = "350"></p>
