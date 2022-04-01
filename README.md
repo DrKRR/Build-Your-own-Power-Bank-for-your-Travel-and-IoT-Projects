@@ -65,6 +65,10 @@ The circuit diagram and the end product are shown below:
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161178284-155f1767-2805-4d73-b057-f5c7d2d09cbd.png"
 " width = "700" height = "400"></p> 
   
-Now, it is time to understand the assembling the individual components. In the above figure I have shown the assembled PCB that goes in to the design of power bank. The assembly consisting of the aluminium casing, battery holder is shown in the following figure. A plate is soldered to the PCB that acts as positive terminal and a wire soldered one end to the negative terminal and wound in a spiral shape on the other end fits in to the plastic battery holder. The spacing between the positive plate and spiral end is such, the 18650 battery exactly fits in.
+Now, it is time to understand the assembling the individual components. In the above figure I have shown the assembled PCB that goes in to the design of power bank. The assembly consisting of the aluminium casing, battery holder is shown in the following figure. battery exactly fits in.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161191220-87cd2f68-90ac-44c4-86fb-bb032b5ca5d5.png"
 " width = "450" height = "350"></p> 
+
+A plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the negative terminal of the PCB and the other end of the is wound in a spiral shape that fits in to the plastic battery holder. The spacing between the positive plate and spiral end is such, the 18650 battery just fits exactly as shown in the figure below:
+<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
+" width = "500" height = "350"></p> 
