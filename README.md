@@ -72,7 +72,7 @@ A plate is soldered to the PCB that acts as positive terminal, and one end of a 
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
 " width = "500" height = "350"></p> 
   
-The power bank shown above can be charged with any mobile chargers with micro USB2.0B termination. I used Motorola and Redmi mobile chargers (shown below) to successfully charge the power banks. Check your charger specifications before use. Use only elegible chargers to charge your power bank, otherwise it may lead to explosion of battery/catching up fire/spoiling of the charger circuit.
+The power bank shown above can be charged with mobile chargers with micro USB2.0B termination. I used Motorola and Redmi mobile chargers (shown below) to successfully charge the power banks. Check your charger specifications before use. Use only elegible chargers to charge your power bank, otherwise it may lead to explosion of battery/catching up fire/spoiling of the charger circuit/charger itself.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161237509-d551398f-d58d-4888-8ca1-ad7fa3a66f67.png"
 " width = "450" height = "350"></p>
 Such Li-ion batteries with high charge density and long life are used in Tesla cars. The following video (YouTube) shows the working of Li-ion battery and its use in Tesla cars.
