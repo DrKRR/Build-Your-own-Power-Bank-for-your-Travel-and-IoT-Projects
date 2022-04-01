@@ -57,5 +57,7 @@ The HT4928S is a highly integrated mobile power supply management system (MPSMS)
 
 The inernal architecture and the pin configuration of HT4928S are shown below: 
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161175007-c8852b07-84f9-42e3-9e33-542a06ee673d.png"
-" width = "370" height = "175"></p> 
+" width = "450" height = "250"></p> 
+<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161177608-eda7f1a1-fc60-4d17-85a6-d181bbba34e5.png"
+" width = "450" height = "250"></p>
 
