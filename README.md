@@ -61,3 +61,6 @@ The inernal architecture and the pin configuration of HT4928S are shown below:
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161177608-eda7f1a1-fc60-4d17-85a6-d181bbba34e5.png"
 " width = "450" height = "250"></p>
 
+The circuit diagram and the end product are shown below:
+<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161178284-155f1767-2805-4d73-b057-f5c7d2d09cbd.png"
+" width = "780" height = "400"></p> 
