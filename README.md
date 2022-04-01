@@ -73,4 +73,4 @@ A plate is soldered to the PCB that acts as positive terminal, and one end of a 
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
 " width = "500" height = "350"></p> 
   
-Such Li-ion batteries with high charge density are used in Tesla cars. 
+Such Li-ion batteries with high charge density and long life are used in Tesla cars. The following video (YouTube) shows the working of Li-ion battery and its use in Tesla cars.
