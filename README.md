@@ -80,6 +80,8 @@ The power bank shown above can be charged with mobile chargers with micro USB2.0
 Such Li-ion batteries with high charge density and long life are used in Tesla cars. The following video (YouTube) shows the working of Li-ion battery and its use in Tesla cars.
 
 <p align = "center"> [(https://www.youtube.com/watch?v=VxMM4g2Sk8U)] <p/> 
+Please go through the following website which is very useful to know about Li-ion batteries.
+<p align = "center"> [(https://www.ionenergy.co/resources/blogs/battery-safety/)] <p/> 
 
 ### DISCLAIMER ###
 Before you work with this project in any way, please make sure you understand what you are doing. Electronic circuits and batteries
