@@ -67,4 +67,4 @@ The circuit diagram and the end product are shown below:
   
 Now, it is time to understand the assembling the individual components. In the above figure I have shown the assembled PCB that goes in to the design of power bank. The assembly consisting of the aluminium casing, battery holder is shown in the following figure. A plate is soldered to the PCB that acts as positive terminal and a wire soldered one end to the negative terminal and wound in a spiral shape on the other end fits in to the plastic battery holder. The spacing between the positive plate and spiral end is such, the 18650 battery exactly fits in.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161191220-87cd2f68-90ac-44c4-86fb-bb032b5ca5d5.png"
-" width = "450" height = "450"></p> 
+" width = "450" height = "350"></p> 
