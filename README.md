@@ -80,7 +80,7 @@ Such Li-ion batteries with high charge density and long life are used in Tesla c
 <p align = "center"> [(https://www.youtube.com/watch?v=VxMM4g2Sk8U)] <p/> 
 
 ### DISCLAIMER ###
-Before you work with this project in any way, please make sure you understand what you are doing, elctronic circuits and batteries
+Before you work with this project in any way, please make sure you understand what you are doing. Electronic circuits and batteries
 can be harmful and dangerous when not used with proper care and administration. 
 
 Trying to duplicate or use this project in any way you agree that you are using it at your own risk and no body can be held responsible or accountable for any damage or harm that might be caused due to your use of this project
