@@ -55,4 +55,7 @@ The Hotchip HT4928S and SW2808S are very popular among these chips. Further, the
 The HT4928S is a highly integrated mobile power supply management system (MPSMS). It has a built-in charge management module, LED(s) indicator module, and a boost discharge management module. It is available in 8-pin SOP package. This chip is described as: 
 *"5V-Step-Up-Power-Module-Lithium-Battery-Charging-Protection-Board-Boost-Converter-LED-Display-USB"*.
 
-The inernal architecture and the pin assignments of HT4928S is shown below: 
+The inernal architecture and the pin configuration of HT4928S are shown below: 
+<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161175007-c8852b07-84f9-42e3-9e33-542a06ee673d.png"
+" width = "370" height = "175"></p> 
+
