@@ -72,3 +72,5 @@ Now, it is time to understand the assembling the individual components. In the a
 A plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the negative terminal of the PCB and the other end of the wire is wound in a spiral shape that fits in to the plastic battery holder. The spacing between the positive plate and spiral end is such, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in such a way gives an output of 5V at 1A.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
 " width = "500" height = "350"></p> 
+  
+Such Li-ion batteries with high charge density are used in Tesla cars. 
