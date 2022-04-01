@@ -64,3 +64,5 @@ The inernal architecture and the pin configuration of HT4928S are shown below:
 The circuit diagram and the end product are shown below:
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161178284-155f1767-2805-4d73-b057-f5c7d2d09cbd.png"
 " width = "700" height = "400"></p> 
+  
+Now, it is time to understand the assembling the individual components. In the above figure I have shown the assembled PCB that goes in to the design of power bank.
