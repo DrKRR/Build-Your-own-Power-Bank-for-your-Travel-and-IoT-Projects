@@ -81,7 +81,10 @@ Such Li-ion batteries with high charge density and long life are used in Tesla c
 
 <p align = "center"> [(https://www.youtube.com/watch?v=VxMM4g2Sk8U)] <p/> 
 Please go through the following website which is very useful to know about Li-ion batteries.
-<p align = "center"> [(https://www.ionenergy.co/resources/blogs/battery-safety/)] <p/> 
+<p align = "center"> [(https://www.ionenergy.co/resources/blogs/battery-safety/)] <p/>
+
+### My Experience in using the Power Bank ###
+As shown in the above figures, I bought the Aluminium cases and Batteries separately. I charged the battery (with the mobile chargers shown in the above images) for about three to four hours. During charging, the Red LED blinks at approximately 1sec. Once the battery charges full, blinking stops and the LED glows continuosly. I used the power bank to power up my IoT circuits (Please check my repository images). When connected to load, the Blue LED glows continuosly, until it supplies 5V to the load. Once the voltage drops, the Blue LED goes off.
 
 ### DISCLAIMER ###
 Before you work with this project in any way, please make sure you understand what you are doing. Electronic circuits and batteries
