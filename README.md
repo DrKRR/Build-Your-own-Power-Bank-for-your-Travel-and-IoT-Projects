@@ -64,11 +64,11 @@ The circuit diagram and the end product wherein the SW2808S and supporting compo
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161178284-155f1767-2805-4d73-b057-f5c7d2d09cbd.png"
 " width = "800" height = "450"></p> 
   
-Now, it is time to understand assembling of the individual components. In the above figure I have shown the assembled PCB that goes in to the design of power bank. The assembly consisting of the aluminium casing, battery holder is shown in the following figure. 
+Now, it is time to understand the assembling of the individual components. In the above figure I have shown the assembled PCB that goes in to the design of power bank. The assembly consisting of the aluminium casing, battery holder is shown in the following figure. 
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161191220-87cd2f68-90ac-44c4-86fb-bb032b5ca5d5.png"
 " width = "450" height = "350"></p> 
 
-A plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the negative terminal of the PCB and the other end of the wire is wound in a spiral shape that fits in to the plastic battery holder. The spacing between the positive plate and spiral end is such, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in such a way gives an output of 5V at 1A.
+A plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the negative terminal of the PCB and the other end of the wire is wound in a spiral shape that fits in to the plastic battery holder. The spacing between the positive plate and spiral end is such that, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in such a way gives an output of 5V at 1A.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
 " width = "500" height = "350"></p> 
 
@@ -91,6 +91,6 @@ As shown in the above figures, I bought the Aluminium cases and Batteries separa
 Before you work with this project in any way, please make sure you understand what you are doing. Electronic circuits and batteries
 can be harmful and dangerous when not used with proper care and administration. 
 
-Trying to duplicate or use this project in any way you agree that you are using it at your own risk and no body can be held responsible or accountable for any damage or harm that might be caused due to your use of this project
+If you are trying to duplicate or use this project in any which way possible (partially or completely), you agree that you are understand all the risks associated with it, doing it at your own risk and no body can be held responsible or accountable for any damage or harm that might be caused due to your use of this project. 
 
 " USE THE PROJECT AT YOUR OWN RISK "
