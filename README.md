@@ -69,8 +69,9 @@ Now, it is time to understand the assembling of the individual components. In th
 " width = "450" height = "350"></p> 
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161490211-1986089d-1faa-4fca-899d-4326419fdc32.png"
 " width = "450" height = "350"></p> 
-A small thin square steel plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the negative terminal of the PCB and the other end of the wire is wound in a spiral shape that fits in to the plastic battery holder, as shown in the figure above. The spacing between the positive plate and spiral end is such that, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in such a way gives an output of 5V at 1A.
-<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
+A small thin square steel plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the negative terminal of the PCB and the other end of the wire is wound in a spiral shape that fits in to the plastic battery holder, as shown in the figure above. The spacing between the positive plate and spiral end is such that, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in such a way gives an output of 5V at 1A.  
+   
+  <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
 " width = "500" height = "350"></p> 
 
 The power bank cases are available commercially at the following:
@@ -85,7 +86,7 @@ Please go through the following website which is very useful to know about Li-io
 <p align = "center"> [(https://www.ionenergy.co/resources/blogs/battery-safety/)] <p/>
 
 ### My Experience in using the Power Bank ###
-As shown in the above figures, I bought the Aluminium cases and Batteries separately. I charged the battery (with the mobile chargers shown in the above images) for about three to four hours. During charging, the Red LED blinks at approximately 1 sec., continuosly. Once the battery charges full, blinking stops and the Red LED glows continuosly. I used the power bank to power up my IoT circuits (Please check my repository images). When connected to load, Red LED will be off, the Blue LED glows continuosly, until it supplies 5V to the load. Once the voltage drops (due to unsupported load current), the Blue LED goes off.
+As shown in the above figures, I bought the Aluminium cases and Batteries separately. I charged the battery (with the mobile chargers shown in the above images) for about three to four hours. During charging, the Red LED blinks at approximately 1 sec., continuosly. Once the battery charges full, blinking stops and the Red LED glows continuosly. I used the power bank to power up my IoT circuits (Please check my repository images). When connected to load, Red LED will be off, the Blue LED glows continuosly, until it supplies 5V to the load. Once the voltage drops (due to unsupported load current), the Blue LED goes off. Now, the battery needs charging.
 
 ### DISCLAIMER ###
 Before you work with this project in any way, please make sure you understand what you are doing. Electronic circuits and batteries
