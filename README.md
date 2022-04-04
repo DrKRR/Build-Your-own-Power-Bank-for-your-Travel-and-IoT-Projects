@@ -79,7 +79,7 @@ exactly as shown in the figure below. The approximate size of the battery is 6.5
 
 The power bank cases are available commercially at the following:
 <p align = "center"> [(https://www.amazon.in/HeSale-Aluminium-Power-18650-Battery/dp/B084X8KV7K)] <p/> 
-The power bank shown above can be charged with mobile chargers with micro USB2.0B termination. I used Motorola and Redmi mobile chargers (shown below) to successfully charge the power banks. Check your charger specifications before use. Use only elegible chargers to charge your power bank, otherwise it may lead to explosion of battery/catching up fire/spoiling of the charger circuit/spoiling of charger itself.
+The power bank shown above can be charged with mobile chargers with micro USB2.0B termination. I used Motorola and Redmi mobile chargers (shown below) to successfully charge the power banks. Check your charger specifications before use. Use only eligible chargers to charge your power bank, otherwise it may lead to explosion of battery/catching up fire/spoiling of the charger circuit/spoiling of charger itself.
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161237509-d551398f-d58d-4888-8ca1-ad7fa3a66f67.png"
 " width = "450" height = "350"></p>
 Such Li-ion batteries with high charge density and long life are used in Tesla cars. The following video (YouTube) shows the working of Li-ion battery and its use in Tesla cars.
