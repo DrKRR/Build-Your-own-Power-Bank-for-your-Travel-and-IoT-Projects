@@ -8,8 +8,7 @@ On highways, there is every likelyhood that mobile towers are built in such a wa
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/160793549-6b27235e-b573-4e41-8f45-3ac26a8a0dd7.png"
 " width = "250" height = "150"></p> 
 
-Readymade power banks are available on the market. But, they are not only costly but also the troubleshooting is a difficult task. In the light of this fact, I present DIY power bank which is cost-effective and also easy to replace when there is a problem with the battery or
-charging electronics. It works well during travel and also can be used for testing embedded and IoT projects.
+Readymade power banks are available on the market. But, they are not only costly but also the troubleshooting is a difficult task. In the light of this fact, I present DIY power bank which is cost-effective and also easy to replace when there is a problem with the battery or charging electronics. It works well during travel and also can be used for testing embedded and IoT projects.
 ## MATERIALS AND METHOD ##
 Power bank mainly consists of three parts:
 * Lithium-ion or Lithium-polymer battery
@@ -69,10 +68,7 @@ Now, it is time to understand the assembling of the individual components. In th
 " width = "450" height = "350"></p> 
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161490211-1986089d-1faa-4fca-899d-4326419fdc32.png"
 " width = "450" height = "350"></p> 
-A small thin square steel plate is soldered to the PCB that acts as positive terminal, and one end of a long wire is soldered to the
-negative terminal of the PCB and the other end of the wire is wound in a tapered spiral shape that fits in to the plastic battery
-holder, as shown in the figure above. The spacing between the positive plate and spiral end is such that, the 18650 battery just fits
-exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in this a way gives an output of 5V at 1A.  
+A small thin square steel plate is soldered to the PCB (marked (+) on PCB) acts as positive terminal, and one end of a long wire is soldered to the PCB (marked (-) on PCB) and the other end of the wire is wound in a tapered spiral shape that fits in to the plastic battery holder acts as negative terminal, as shown in the figure above. The spacing between the positive plate and spiral end is such that, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in this a way gives an output of 5V at 1A.  
    
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161208796-8a57a0ae-d422-4e6d-b468-fd16db803243.png"
 " width = "500" height = "350"></p> 
