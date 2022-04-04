@@ -91,9 +91,9 @@ Please go through the following website which is very useful to know about Li-io
 ### My Experience in using the Power Bank ###
 As shown in the above figures, I bought the Aluminium cases and Batteries separately. I charged the battery (with the mobile chargers
 shown in the above images) for about three to four hours. During charging, the Red LED blinks at approximately 1 sec., continuosly.
-Once the battery charges full, blinking stops and the Red LED glows continuosly. I used the power bank to power up my IoT circuits
+Once the battery charges to full, blinking stops and the Red LED glows continuosly. I used the power bank to power up my IoT circuits
 (Please check my repository images). When connected to load, Red LED will be off, the Blue LED glows continuosly, until it supplies 5V
-to the load. Once the voltage drops (due to unsupported load current), the Blue LED goes off. Now, the battery needs charging.
+to the load. Once the voltage drops (due to unsupported load current), the Blue LED goes off. Now, the battery needs to be charged.
 
 ### DISCLAIMER ###
 Before you work with this project in any way, please make sure you understand what you are doing. Electronic circuits and batteries
