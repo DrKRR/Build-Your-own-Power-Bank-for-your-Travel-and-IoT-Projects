@@ -66,7 +66,7 @@ The circuit diagram and the end product wherein the SW2808S and supporting compo
 Now, it is time to understand the assembling of the individual components. In the above figure I have shown the assembled PCB that goes in to the design of power bank. The assembly consisting of the aluminium casing, battery holder is shown in the following figure. 
 <p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161191220-87cd2f68-90ac-44c4-86fb-bb032b5ca5d5.png"
 " width = "450" height = "350"></p> 
-<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161490211-1986089d-1faa-4fca-899d-4326419fdc32.png"
+<p align = "center"><img src="https://user-images.githubusercontent.com/93868543/161893618-e612c768-a985-4991-9a86-ff1d08f1f615.png"
 " width = "450" height = "350"></p> 
 A small thin square steel plate that is soldered to the PCB (marked (+) on PCB) acts as positive terminal, and one end of a long wire is soldered to the PCB (marked (-) on PCB) and the other end of the wire is wound in a tapered spiral shape which fits in to the plastic battery holder acts as negative terminal, as shown in the figure above. The spacing between the positive plate and negative spiral end is such that, the 18650 battery just fits exactly as shown in the figure below. The approximate size of the battery is 6.5cm. in length and 1.7cm. in diameter. Power bank constructed in this a way gives an output of 5V at 1A rating.   </p>
   
